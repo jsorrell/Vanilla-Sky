@@ -1,13 +1,13 @@
 name = "Carpet Sky Additions"
-filename = "carpetskyadditions-1.19.4-4.3.0.jar"
+filename = "carpetskyadditions-1.19.4-4.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6a6fa1bef31ea44b6439844dc7d3338aab244f68"
+hash = "abbda14d81bf0d1d7fffd50c8f0770368ccb011b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4448380
+file-id = 4481898
 project-id = 633402
