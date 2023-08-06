@@ -6,32 +6,32 @@ hash = "59a315a9109b344271cc6aa3d6ce678b332f519d401dee2e70dab4a45c96b7e2"
 
 [[files]]
 file = "mods/carpet-sky-additions.pw.toml"
-hash = "734da80b30409a27c62df216b5dd06405ce1e3822fe373e015f648d26e4dff0c"
+hash = "b86edc2a5863cd9117e9fec9d733cd2765e9eea9705efd41084f301fc7048293"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "69ce0a2a178babd0f25d3e8f9769c125abcbeea2273b4c7b6b853b21826cf721"
+hash = "c312819d856814e63d3a944264f9bbb9f05e8bad527f38d9701c006682bf2b9a"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "434bea6bc8c6b9abe951688847292ea5cf32a1d4b585e9e1d3f13f1dca58c3ff"
+hash = "df83086d160981e8d4e29defe7253d6b2f3339d33dcc2c72e8359bea2f134960"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "01d49deb339e7ef258683beda7a193b0bc5f6cf07520582b2ec8a7e83577d189"
+hash = "c97ac6ec3937a70ee8b4fd2e1c9926c7ca7c8e980a5b0ba5a07a10484be07686"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "985c7e59f8f3fc2aaa7f6d4fe27b97a426e8056577f298aa0749a11164ed5730"
+hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "4180fe996e7b00b8eb8252dc06570ecc7cf353016a8cc1b216d3bca700aaa42b"
+hash = "1bdf87c5dd44a752e0fa20ba3b42eb2671d3271c20da595115ae9b7ca63b1ada"
 metafile = true
 
 [[files]]
