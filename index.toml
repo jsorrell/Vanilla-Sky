@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "c312819d856814e63d3a944264f9bbb9f05e8bad527f38d9701c006682bf2b9a"
+hash = "5bc0b5ae28bc698d2c50671e86f090930f4a71c2588ed0f6883695950458c24d"
 metafile = true
 
 [[files]]
@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c97ac6ec3937a70ee8b4fd2e1c9926c7ca7c8e980a5b0ba5a07a10484be07686"
+hash = "b684b16ae2594bf990c54fde25a55887ced75a9f5ca867fb221d8304595c4de2"
 metafile = true
 
 [[files]]
@@ -36,5 +36,5 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4b1acc40211972d0aa39dfd06edf66910a6c5de154576fc3ad1d05f44413bdbe"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true

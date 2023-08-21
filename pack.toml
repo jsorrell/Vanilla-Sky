@@ -1,13 +1,13 @@
 name = "Vanilla Sky"
 author = "jsorrell"
-version = "1.20.1-1.2.0"
+version = "1.20.1-1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f2f72ed89d46cef8137ef39d9b949cac636dd7f264f603a697303fdfc6ae220e"
+hash = "6c96ef31e47d348be544cb25230e40865e44d2a1c397e421abdc4188033105ba"
 
 [versions]
-fabric = "0.14.21"
+fabric = "0.14.22"
 minecraft = "1.20.1"
